@@ -1,0 +1,550 @@
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.559 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.28
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   664.71
+ Mop/s/thread    =                   664.71
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.519 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    28.73
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   677.45
+ Mop/s/thread    =                   677.45
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.563 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.39
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   662.10
+ Mop/s/thread    =                   662.10
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.556 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.28
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   664.75
+ Mop/s/thread    =                   664.75
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.566 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.37
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   662.72
+ Mop/s/thread    =                   662.72
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.554 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.23
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   665.71
+ Mop/s/thread    =                   665.71
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.550 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.17
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   667.28
+ Mop/s/thread    =                   667.28
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.561 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.31
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   663.93
+ Mop/s/thread    =                   663.93
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.560 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.42
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   661.42
+ Mop/s/thread    =                   661.42
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+
+
+
+ NAS Parallel Benchmarks (NPB3.3-OMP) - MG Benchmark
+
+ No input file. Using compiled defaults 
+ Size:  256x 256x 256  (class B)
+ Iterations:                     20
+ Number of available threads:     1
+
+ Initialization time:           4.566 seconds
+
+  iter   1
+  iter   5
+  iter  10
+  iter  15
+  iter  20
+
+ Benchmark completed 
+ VERIFICATION SUCCESSFUL 
+ L2 Norm is  0.1800564401355E-05
+ Error is    0.6291952490564E-13
+
+
+ MG Benchmark Completed.
+ Class           =                        B
+ Size            =            256x 256x 256
+ Iterations      =                       20
+ Time in seconds =                    29.45
+ Total threads   =                        1
+ Avail threads   =                        1
+ Mop/s total     =                   660.77
+ Mop/s/thread    =                   660.77
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                    3.3.1
+ Compile date    =              08 Jun 2022
+ OpenMP version  =                   201511
+ Compiler ver    =                    9.4.0
+
+ Compile options:
+    F77          = gfortran -fopenmp
+    FLINK        = $(F77)
+    F_LIB        = (none)
+    F_INC        = (none)
+    FFLAGS       = -O3 -fno-PIC  -mcmodel=large #ALTERADO DE "...
+    FLINKFLAGS   = -O3 -fno-PIC -mcmodel=large #--------------...
+    RAND         = (none)
+
+
+ Please send all errors/feedbacks to:
+
+ NPB Development Team
+ npb@nas.nasa.gov
+
+

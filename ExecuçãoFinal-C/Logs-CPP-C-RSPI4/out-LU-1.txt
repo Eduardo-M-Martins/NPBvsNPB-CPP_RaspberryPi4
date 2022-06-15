@@ -1,0 +1,750 @@
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2535.86
+ Mop/s total     =                   804.07
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2546.52
+ Mop/s total     =                   800.70
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2580.32
+ Mop/s total     =                   790.21
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2566.33
+ Mop/s total     =                   794.52
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2584.92
+ Mop/s total     =                   788.80
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2538.07
+ Mop/s total     =                   803.37
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2547.96
+ Mop/s total     =                   800.25
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2546.35
+ Mop/s total     =                   800.75
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2548.80
+ Mop/s total     =                   799.98
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - LU Benchmark
+
+ Size:  162x 162x 162
+ Iterations:  250
+
+ Time step    1
+ Time step   20
+ Time step   40
+ Time step   60
+ Time step   80
+ Time step  100
+ Time step  120
+ Time step  140
+ Time step  160
+ Time step  180
+ Time step  200
+ Time step  220
+ Time step  240
+ Time step  250
+
+ Verification being performed for class_npb C
+ Accuracy setting for epsilon =  1.0000000000000E-08
+ Comparison of RMS-norms of residual
+           1   1.0376698032354E+04 1.0376698032354E+04 2.1561357566593E-14
+           2   8.9221245880098E+02 8.9221245880101E+02 2.8287520225973E-14
+           3   2.5623881458266E+03 2.5623881458266E+03 7.6312154815288E-15
+           4   2.1919434385784E+03 2.1919434385783E+03 2.5932885794570E-14
+           5   1.7807805726106E+04 1.7807805726106E+04 1.1440309734426E-14
+ Comparison of RMS-norms of solution error
+           1   2.1598639971695E+02 2.1598639971695E+02 2.1186034047939E-14
+           2   1.5578955923987E+01 1.5578955923986E+01 1.3454695428370E-14
+           3   5.4131886307721E+01 5.4131886307721E+01 2.4939666618483E-15
+           4   4.8226264315405E+01 4.8226264315405E+01 1.9153578855849E-15
+           5   4.5590291004327E+02 4.5590291004325E+02 3.7155583891565E-14
+ Comparison of surface integral
+               6.6640455357218E+01 6.6640455357218E+01 0.0000000000000E+00
+ Verification Successful
+
+
+ LU Benchmark Completed
+ class_npb       =                        C
+ Size            =            162x 162x 162
+ Total threads   =                        1
+ Iterations      =                      250
+ Time in seconds =                  2567.54
+ Mop/s total     =                   794.14
+ Operation type  =           floating point
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = (none)
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+

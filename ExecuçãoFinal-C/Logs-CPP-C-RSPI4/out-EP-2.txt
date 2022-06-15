@@ -1,0 +1,580 @@
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  363.1286
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   363.13
+ Mop/s total     =                    23.66
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  378.2650
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   378.27
+ Mop/s total     =                    22.71
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  362.8942
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   362.89
+ Mop/s total     =                    23.67
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  363.3353
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   363.34
+ Mop/s total     =                    23.64
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  363.3884
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   363.39
+ Mop/s total     =                    23.64
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  363.1903
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   363.19
+ Mop/s total     =                    23.65
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  363.2241
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   363.22
+ Mop/s total     =                    23.65
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  365.7950
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   365.80
+ Mop/s total     =                    23.48
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  363.2511
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   363.25
+ Mop/s total     =                    23.65
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
+
+
+ NAS Parallel Benchmarks 4.1 Parallel C++ version with OpenMP - EP Benchmark
+
+ Number of random numbers generated:      8589934592
+
+ EP Benchmark Results:
+
+ CPU Time =  363.4337
+ N = 2^   32
+ No. Gaussian Pairs =      3373275903
+ Sums =     4.764367927997859e+04    -8.084072988025691e+04
+ Counts: 
+  0     1572172634
+  1     1501108549
+  2      281805648
+  3       17761221
+  4         424017
+  5           3821
+  6             13
+  7              0
+  8              0
+
+
+ EP Benchmark Completed
+ class_npb       =                        C
+ Size            =               8589934592
+ Total threads   =                        2
+ Iterations      =                        0
+ Time in seconds =                   363.43
+ Mop/s total     =                    23.64
+ Operation type  = Random numbers generated
+ Verification    =               SUCCESSFUL
+ Version         =                      4.1
+ Compile date    =              24 May 2022
+ Compiler ver    =                    9.4.0
+ OpenMP version  =                   201511
+
+ Compile options:
+    CC           = g++ -std=c++14
+    CLINK        = $(CC)
+    C_LIB        = -lm
+    C_INC        = -I../common 
+    CFLAGS       = -O3 -fopenmp -mcmodel=small 
+    CLINKFLAGS   = -O3 -fopenmp -mcmodel=small
+    RAND         = randdp
+
+
+----------------------------------------------------------------------
+    NPB-CPP is developed by: 
+        Dalvan Griebler
+        Gabriell Araujo (Sequential Porting)
+        Júnior Löff (Parallel Implementation)
+
+    In case of questions or problems, please send an e-mail to us:
+        dalvan.griebler; gabriell.araujo; junior.loff@edu.pucrs.br
+----------------------------------------------------------------------
+
