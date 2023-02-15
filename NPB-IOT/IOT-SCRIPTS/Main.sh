@@ -1,4 +1,4 @@
-echo "EXECUTION STARTED";
+echo "EXECUTION STARTED "; date +%D" "%T
 echo " - - - - - - - - - - - - - - - - - - - - - - - "
 
 ./EXE-CPP.sh
@@ -13,4 +13,4 @@ gnuplot PLOT.p
 echo -n "-> Plots Done. "; date +%D" "%T
 
 echo " - - - - - - - - - - - - - - - - - - - - - - - ";
-echo ""; echo "EXECUTION FINISHED" echo ""
+echo ""; echo "EXECUTION FINISHED "; date +%D" "%T; echo ""
