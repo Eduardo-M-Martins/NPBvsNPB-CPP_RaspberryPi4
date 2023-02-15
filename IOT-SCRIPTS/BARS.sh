@@ -6,6 +6,8 @@ vetfor=()
 contcpp=0
 vetcpp=()
 
+rm ../IOT-EXE-B/Logs-Graph-Bars/*
+rm ../IOT-EXE-C/Logs-Graph-Bars/*
 for ((i=0; i<$f3; i++));do
     grep "$j " ../IOT-EXE-B/Logs-Graph-Lines/zFOR-"${prog[$i]}".txt | awk '{print $2}' >> aux-for-"${prog[$i]}".txt
     grep "$j " ../IOT-EXE-B/Logs-Graph-Lines/zCPP-"${prog[$i]}".txt | awk '{print $2}' >> aux-cpp-"${prog[$i]}".txt

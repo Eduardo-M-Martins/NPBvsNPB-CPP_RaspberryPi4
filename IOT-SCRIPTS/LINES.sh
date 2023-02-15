@@ -4,6 +4,8 @@ f3=8
 cont=0
 vet=()
 
+rm ../IOT-EXE-B/Logs-Graph-Lines/*
+rm ../IOT-EXE-C/Logs-Graph-Lines/*
 for ((i=0; i<$f3; i++));do
     for ((j=1; j<=$f1; j++));do
         grep "Time in seconds =" ../IOT-EXE-B/Logs-FOR-B-R4/out-"${prog[$i]}"-"$j".txt | awk '{print $5}' >> aux1-"${prog[$i]}"-"$j".txt

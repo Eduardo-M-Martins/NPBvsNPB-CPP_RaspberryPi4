@@ -12,6 +12,8 @@ for ((i=0; i<$f3; i++));do
 done
 
 cd bin
+rm ../../../NPB-IOT/IOT-EXE-B/Logs-FOR-B-R4/*
+rm ../../../NPB-IOT/IOT-EXE-C/Logs-FOR-C-R4/*
 for ((i=$f1; i>=1; i--));do
     export OMP_NUM_THREADS=$i
     for ((j=0; j<$f2; j++));do
