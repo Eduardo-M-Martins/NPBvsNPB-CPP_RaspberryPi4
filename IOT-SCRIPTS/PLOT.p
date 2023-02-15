@@ -58,24 +58,6 @@ set output '../IOT-EXE-C/Graphics/G-SP-C.png'
 set title 'SP com OpenMP (NPB-CPP vs NPB) - Classe C' font "Arial,24
 plot "../IOT-EXE-C/Logs-Graph-Bars/bars-SP.txt" using ($1):($2) with boxes lc "#505050" fs pattern notitle axes x1y2, "../IOT-EXE-C/Logs-Graph-Lines/zCPP-SP.txt" lt 3 lc 'blue' lw 2 ps 2 w yerrorlines title "C++", "../IOT-EXE-C/Logs-Graph-Lines/zFOR-SP.txt" lt 1 lc rgb 'black' lw 2 ps 2 w yerrorlines title "Fortran"
 
-reset
-set terminal png size 1250,912 font "Arial,26"
-set autoscale xy
-set xrange[0.5:4.5]
-set logscale y 2
-set grid lc rgb 'black' lw 2
-set xlabel "  Número de threads  "
-set ylabel "  Tempo de execução [sec]  "
-set xtics 1
-set border lw 2
-set key top right box lc rgb 'white' dashtype solid
-set boxwidth 0.6 relative
-set y2tics
-set format y2 "%g %%"
-set y2label "  Diferença [%]  "
-set style fill pattern 1
-set y2tics add ("Fortran" 0)
-
 set y2range[-30:30]
 set output '../IOT-EXE-B/Graphics/G-BT-B.png'
 set title 'BT com OpenMP (NPB-CPP vs NPB) - Classe B' font "Arial,24
