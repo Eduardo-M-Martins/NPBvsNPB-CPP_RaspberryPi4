@@ -6,7 +6,7 @@ This project and article provides a study dedicated to analyzing the behavior of
 It was developed to run in a Linux environment. Uses C, C++, Fortran, Gnuplot, Shell, Python and numpy. When downloaded, the NPB.zip file must be unzipped in the root directory, this file contains the NPB and NPB-CPP source codes.
 Also some files may need to be given execute permission, this can be done with the following command:
 ```
-chmod 777 [fileName]
+chmod +x [fileName]
 ```
 Originally, this code was used to run on a Raspberry Pi Model B, so it is configured to run applications ranging from 1 to 4 cores.
 ## Execution
