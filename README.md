@@ -14,3 +14,7 @@ To execute the applications, run the following command inside the 'IOT-SCRIPTS' 
 ```
 ./Main.sh
 ```
+##
+<div align="center">  
+  <img src="https://cdn.discordapp.com/attachments/1076157666986049598/1076168916495241327/rp4.png" alt="Result preview" /> 
+</div>
